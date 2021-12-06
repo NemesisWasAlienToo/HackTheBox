@@ -1,0 +1,5 @@
+H  T  B  {                                                                                 }
+48 54 42 7b
+13 4a f6 e1 29 7b c4 a9 6f 6a 87 fe 04 66 84 e8 04 70 84 ee 04 6d 84 c5 28 2d d7 ef 29 2d c9
+xor
+5b 1e b4 9a
